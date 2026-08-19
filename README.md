@@ -155,7 +155,7 @@ All data is stored in `localStorage` under the key:
 - HTML5 / CSS3 / JavaScript (Vanilla, no frameworks)
 - Font Awesome 6.5.0 – Icons
 - Google Fonts (Inter) – Typography
-- Google Identity Services – Mandatory Google Sign-In
+- Google Identity Services – Not For PC Version Mandatory Google Sign-In
 - EmailJS – Email delivery for invoices
 - ExchangeRate-API – Real-time currency rates
 - `localStorage` – Data persistence
@@ -198,7 +198,8 @@ For issues or feature requests, please open an issue on GitHub:
 
 ```
 sales-erp/
-├── index.html          # Main application (single HTML file)
+├── mwserp.exe          # Main application (single EXE file)
+├── mwserp.apk          # Main application (single APK file)
 └── README.txt          # This file
 ```
 
@@ -217,5 +218,5 @@ sales-erp/
 
 
 
-*© 2026 Sales ERP v3.0 – Built with ❤️ for small businesses.*
+*© 2026 MWS ERP v3.0 – Built with ❤️ for small businesses.*
 ```
