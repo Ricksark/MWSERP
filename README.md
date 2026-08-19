@@ -3,7 +3,7 @@
 ## 📦 DOWNLOAD & INSTALLATION
 
 - **Download the main file:**  
-  `[DOWNLOAD NOW](https://github.com/Ricksark/MWSERP/releases/download/exe/mwserp.exe)`  
+  [DOWNLOAD NOW](https://github.com/Ricksark/MWSERP/releases/download/exe/mwserp.exe) 
 
 
 - **Run:** Simply open `index.html` in any modern web browser.  
