@@ -2,10 +2,12 @@
 
 ## 📦 DOWNLOAD & INSTALLATION
 
-- **Download the main file:**  
+- **Download For PC or Desktop:**  
   [DOWNLOAD .EXE](https://github.com/Ricksark/MWSERP/releases/download/exe/mwserp.exe) 
 
-
+- **Download For Android:**
+  [DOWNLOAD .APK]() 
+  
 - **Run:** Simply open `index.html` in any modern web browser.  
   No server required – everything runs locally in your browser.
 
