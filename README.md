@@ -2,19 +2,16 @@
 
 ## 📦 DOWNLOAD & INSTALLATION
 
-- **Download For PC or Desktop:**  
-  [DOWNLOAD .EXE](https://github.com/Ricksark/MWSERP/releases/download/exe/mwserp.exe) 
+- **Download For PC or Desktop:**  [DOWNLOAD .EXE](https://github.com/Ricksark/MWSERP/releases/download/exe/mwserp.exe) 
 
-- **Download For Android:**
-  [DOWNLOAD .APK]() 
+- **Download For Android:** [DOWNLOAD .APK]() 
   
-- **Run:** Simply open `index.html` in any modern web browser.  
-  No server required – everything runs locally in your browser.
+- **Run:** Simply open and no server required – everything runs locally in your **PC or Desktop** and **Android**.
 
 
 ## 📋 APPLICATION DESCRIPTION
 
-Sales ERP is a full-featured, browser-based Enterprise Resource Planning system designed for small to medium businesses. It helps you manage:
+**MWSERP** is a full-featured, browser-based **Enterprise Resource Planning** system designed for small to medium businesses. It helps you manage:
 
 - Sales Orders & Invoices
 - Purchase Orders
@@ -22,8 +19,7 @@ Sales ERP is a full-featured, browser-based Enterprise Resource Planning system 
 - Customer & Supplier Databases
 - Company Profile
 - Currency & Exchange Rates
-- Email Invoicing (via EmailJS)
-- Webhook Notifications
+- Email Invoicing **(via EmailJS)**
 - Backup & Restore
 - Analytics & Reports
 
@@ -62,12 +58,11 @@ All data is stored locally in your browser's `localStorage`, making it portable 
 
 ### 6. COMPANY PROFILE
 - Configure your business details (used in invoice generation)
-- Fields: Company Name, Address, Phone, Email, GST, Website
+- Fields: Company Name, Address, Phone, Email, GST(**not mandatory**), Website
 
 ### 7. SETTINGS
 - Currency selection (USD, INR, EUR, GBP, JPY, CAD, AUD)
 - Real-time exchange rate fetching
-- Google OAuth Client ID configuration
 - EmailJS configuration (Public Key, Service ID, Template ID)
 - Invoice configuration:
   - CGST & SGST tax rates
@@ -83,7 +78,7 @@ All data is stored locally in your browser's `localStorage`, making it portable 
 - Print / PDF export
 - Email delivery via EmailJS
 
-### 9. WEBHOOK SYSTEM
+### 9. WEBHOOK SYSTEM (*Comming soon!*)
 - Configure webhook endpoints for real-time notifications
 - Event types:
   - `sale.created`, `sale.updated`, `sale.deleted`
@@ -108,7 +103,7 @@ All data is stored locally in your browser's `localStorage`, making it portable 
 
 ## 🔧 SETUP INSTRUCTIONS
 
-### 1. GOOGLE SIGN-IN (Mandatory)
+### 1. GOOGLE SIGN-IN (PC version not Mandatory)
 1. Go to [Google Cloud Console](https://console.cloud.google.com)
 2. Create a new project or select existing
 3. Enable the **Google+ API**
