@@ -1,4 +1,4 @@
-<img width="1439" height="832" alt="image1787070593" src="https://github.com/user-attachments/assets/1a3e2b4b-8205-42fa-b5dd-5acd929fe900" />
+<img width="1439" height="832" alt="image1787070593" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNY3E0x3dcDkUYVFOyel-SnfshksyWFI-J8IZBD4-CTV-3m3oLKdKrO1IdedV_8FdSfioYPaoCa4e9mgvc_V8mD3xA9MSQMCE2NWdcTDVUzJ7ew2zd9EMl7FYUap1AvMS247P4zXzZ1fOPUk2FgWV7pOrRxgCOvxC1IjNKqOsLDKGP55Cl7PnPkos2DONk/s1408/1000328822.png" />
 
 # SALES ERP v3.0 – Complete Business Management System
 
