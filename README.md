@@ -1,3 +1,5 @@
+<img width="1439" height="832" alt="image1787070593" src="https://github.com/user-attachments/assets/1a3e2b4b-8205-42fa-b5dd-5acd929fe900" />
+
 # SALES ERP v3.0 – Complete Business Management System
 
 ## 📦 DOWNLOAD & INSTALLATION
